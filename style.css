@@ -1,0 +1,19 @@
+header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    background-color: chartreuse;
+    border: 3px solid cyan;
+
+}
+
+header ul{
+    display: flex;
+    position: absolute;
+    background-color: chartreuse;
+
+}
+
+.item a :hover{
+   background-color: red;
+   color: green;
+}
